@@ -10,4 +10,4 @@ An innocent line of text on a blog post.
 
 I want everyone to see [this link](http://www.google.com).
 
-Man, i sure hope [i type this correctly](http://www.google.commmm).
+Man, i sure hope [i type this correctly](http://www.google.com).
